@@ -6,7 +6,6 @@
   "author": "Nick Rameau <r@meau.me>",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.19.0",
     "meow": "^5.0.0",
     "moment": "^2.24.0"
   }
