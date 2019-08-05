@@ -6,7 +6,13 @@
   "author": "Nick Rameau <r@meau.me>",
   "license": "MIT",
   "dependencies": {
+    "dotenv": "^8.0.0",
+    "enquirer": "^2.3.1",
+    "immer": "^3.2.0",
     "meow": "^5.0.0",
-    "moment": "^2.24.0"
+    "moment": "^2.24.0",
+    "mysql2": "^1.6.5",
+    "p-iteration": "^1.1.8",
+    "uuid": "^3.3.2"
   }
 }
